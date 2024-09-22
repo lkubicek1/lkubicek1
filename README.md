@@ -17,7 +17,7 @@ Explore the Developer Field Notes for valuable commands, code snippets, and tips
 
 > 🏆 823 contributions in the year 2024
  > 
-> 📜  28 public repositories 28
+> 📜  28 public repositories
  >
 > 🕑︎ Time Zone: America/New_York (Eastern Time)
  >
