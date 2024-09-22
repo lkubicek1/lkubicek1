@@ -1,18 +1,12 @@
 ### Hi there, I'm Lee 👋
 
+[![Linkedin: lkubicek](https://img.shields.io/badge/-lkubicek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lkubicek/)](https://www.linkedin.com/in/lkubicek/)
+
+
 ![Backdrop](./lkubicek1_backdrop.png)
 
-## Developer Field Notes 📓
-
-I've compiled a collection of cheatsheets and quick references in my "Developer Field Notes" gist, covering a wide range of topics from Docker to Unix commands and much more. These notes are designed to help software developers, programmers, and IT professionals enhance their productivity and efficiency.
-
-Explore the Developer Field Notes for valuable commands, code snippets, and tips across various tools and programming languages:
-
-[View Developer Field Notes](https://gist.github.com/lkubicek1/2ded8fd6c289d3bc45a618be9de569e9)
-
----
-
 ## My Data 📊
+
 <!-- START_SECTION:stats -->
 
 > 🏆 823 contributions in the year 2024
@@ -50,3 +44,13 @@ macOS                     204 hrs 12 mins     ██░░░░░░░░░�
 <!-- END_SECTION:stats -->
 
 Stay tuned for updates as I work on new projects!
+
+---
+
+## Developer Field Notes 📓
+
+I've compiled a collection of cheatsheets and quick references in my "Developer Field Notes" gist, covering a wide range of topics from Docker to Unix commands and much more. These notes are designed to help software developers, programmers, and IT professionals enhance their productivity and efficiency.
+
+Explore the Developer Field Notes for valuable commands, code snippets, and tips across various tools and programming languages:
+
+[View Developer Field Notes](https://gist.github.com/lkubicek1/2ded8fd6c289d3bc45a618be9de569e9)
