@@ -1,4 +1,4 @@
-### Hi there, I'm Lee 👋
+### Hello there, I'm Lee 👋
 
 [![Linkedin: lkubicek](https://img.shields.io/badge/-lkubicek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lkubicek/)](https://www.linkedin.com/in/lkubicek/)
 
